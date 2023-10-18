@@ -1,0 +1,2 @@
+epochs,learning_rate,model,square
+500,0.05,RandomForest,40000
